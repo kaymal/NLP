@@ -1,0 +1,1 @@
+Probability is a measure quantifying the likelihood that events will occur. See glossary of probability and statistics. Probability quantifies as a number between 0 and 1, where, sparsly speaking, 0 indicates impossibility and 1 indicates certainty.

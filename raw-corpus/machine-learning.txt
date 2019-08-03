@@ -1,0 +1,17 @@
+Machine learning is a scientific study of algorithms and statistical models that computer systems use in order to perform a specific task effectively without using explicit instructions, relying on patterns and inference instead. It is seen as a subset of artificial intelligence. 
+
+Machine learning algorithms build a mathematical model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to perform the task.
+Machine learning algorithms are used in a wide variety of applications, such as email filtering, and computer vision, where it is infeasible to develop an algorithm of specific instructions for performing the task. 
+
+Machine learning is closely related to computational statistics, which focuses on making predictions using computers. 
+The study of mathematical optimization delivers methods, theory and application domains to the field of machine learning. Data mining is a field of study within machine learning, and focuses on exploratory data analysis through unsupervised learning.
+In its application across business problems, machine learning is also referred to as predictive analytics.
+
+Overview
+====
+The name machine learning was coined in 1959 by Arthur Samuel. 
+Tom M. Mitchell provided a widely quoted, more formal definition of the algorithms studied in the machine learning field: 
+"A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P if its performance at tasks in T, as measured by P, improves with experience E."
+This definition of the tasks in which machine learning is concerned offers a fundamentally operational definition rather than defining the field in cognitive terms.
+This follows Alan Turing's proposal in his paper "Computing Machinery and Intelligence", in which the question "Can machines think?" is replaced with the question "Can machines do what we (as thinking entities) can do?".
+In Turing's proposal the various characteristics that could be possessed by a thinking machine and the various implications in constructing one are exposed.
