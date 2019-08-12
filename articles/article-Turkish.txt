@@ -1,0 +1,25 @@
+Yapay Zeka - Vikipedi
+
+Yapay zeka, bir bilgisayarın veya bilgisayar kontrolündeki bir robotun çeşitli faaliyetleri zeki canlılara benzer şekilde yerine getirme kabiliyeti. İngilizce artificial intelligence kavramının akronimi olan AI sözcüğü de bilişimde sıklıkla kullanılır. Yapay zeka çalışmaları genellikle insanın düşünme yöntemlerini analiz ederek bunların benzeri yapay yönergeleri geliştirmeye yöneliktir.
+
+Bir bakış açısına göre, programlanmış bir bilgisayarın düşünme girişimi gibi görünse de bu tanımlar günümüzde hızla değişmekte, öğrenebilen ve gelecekte insan zekasından bağımsız gelişebilecek bir yapay zeka kavramına doğru yeni yönelimler oluşmaktadır. Bu yönelim, insanın evreni ve doğayı anlama çabasında kendisine yardımcı olabilecek belki de kendisinden daha zeki, insan ötesi varlıklar meydana getirme düşünün bir ürünüdür. Bu düş, 1920'li yıllarda yazılan ve sonraları Isaac Asimov'u etkileyen modern bilim kurgu edebiyatının öncü yazarlarından Karel Čapek'in eserlerinde dışa vurmuştur. Karel Čapek, R.U.R adlı tiyatro oyununda yapay zekaya sahip robotlar ile insanlığın ortak toplumsal sorunlarını ele alarak 1920 yılında yapay zekanın insan aklından bağımsız gelişebileceğini öngörmüştü.
+
+Tanım
+
+İdealize edilmiş bir yaklaşıma göre yapay zeka, insan zekasına özgü olan, algılama, öğrenme, çoğul kavramları bağlama, düşünme, fikir yürütme, sorun çözme, iletişim kurma, çıkarımsama yapma ve karar verme gibi yüksek bilişsel fonksiyonları veya otonom davranışları sergilemesi beklenen yapay bir işletim sistemidir. Bu sistem aynı zamanda düşüncelerinden tepkiler üretebilmeli (eyleyici yapay zeka) ve bu tepkileri fiziksel olarak dışa vurabilmelidir.
+
+Tarihçe
+
+"Yapay zeka" kavramının geçmişi modern bilgisayar bilimi kadar eskidir. Fikir babası, "Makineler düşünebilir mi?" sorunsalını ortaya atarak makine zekasını tartışmaya açan Alan Mathison Turing'dir. 1943'te II. Dünya Savaşı sırasında Kripto analizi gereksinimleri ile üretilen elektromekanik cihazlar sayesinde bilgisayar bilimi ve yapay zeka kavramları doğmuştur.
+
+Alan Turing, Nazilerin Enigma makinesinin şifre algoritmasını çözmeye çalışan matematikçilerin en ünlü olanlarından biriydi. İngiltere, Bletchley Park'ta şifre çözme amacı ile başlatılan çalışmalar, Turing'in prensiplerini oluşturduğu bilgisayar prototipleri olan Heath Robinson, Bombe Bilgisayarı ve Colossus Bilgisayarları, Boole cebirine dayanan veri işleme mantığı ile Makine Zekası kavramının oluşmasına sebep olmuştu.
+
+Modern bilgisayarın atası olan bu makineler ve programlama mantıkları aslında insan zekasından ilham almışlardı. Ancak sonraları, modern bilgisayarlarımız daha çok uzman sistemler diyebileceğimiz programlar ile gündelik hayatımızın sorunlarını çözmeye yönelik kullanım alanlarında daha çok yaygınlaştılar. 1970'li yıllarda büyük bilgisayar üreticileri olan Microsoft, Apple, Xerox, IBM gibi şirketler kişisel bilgisayar (PC Personal Computer) modeli ile bilgisayarı popüler hale getirdiler ve yaygınlaştırdılar. Yapay zeka çalışmaları ise daha dar bir araştırma çevresi tarafından geliştirilmeye devam etti.
+
+Bugün, bu çalışmaları teşvik etmek amacı ile Turing'in adıyla anılan Turing Testi ABD'de Loebner ödülleri adı altında makine zekasına sahip yazılımların üzerinde uygulanarak başarılı olan yazılımlara ödüller dağıtılmaktadır.
+
+Turing Testinin içeriği kısaca şöyledir: birbirini tanımayan birkaç insandan oluşan bir denek grubu birbirleri ile ve bir yapay zeka diyalog sistemi ile geçerli bir süre sohbet etmektedirler. Birbirlerini yüz yüze görmeden yazışma yolu ile yapılan bu sohbet sonunda deneklere sorulan sorular ile hangi deneğin insan hangisinin makine zekası olduğunu saptamaları istenir. İlginçtir ki, şimdiye kadar yapılan testlerin bir kısmında makine zekası insan zannedilirken gerçek insanlar makine zannedilmiştir.
+
+Loebner Ödülü kazanan yapay zeka diyalog sistemlerinin yeryüzündeki en bilinen örneklerinden biri A.L.I.C.E'dir. Carnegie üniversitesinden Dr.Richard Wallace tarafından yazılmıştır.Bu ve benzeri yazılımlarının eleştiri toplamalarının nedeni, testin ölçümlendiği kriterlerin konuşmaya dayalı olmasından dolayı programların ağırlıklı olarak diyalog sistemi (chatbot) olmalarıdır.
+
+Türkiye'de de makine zekası çalışmaları yapılmaktadır. Bu çalışmalar doğal dil işleme, uzman sistemler ve yapay sinir ağları alanlarında Üniversiteler bünyesinde ve bağımsız olarak sürdürülmektedir.
